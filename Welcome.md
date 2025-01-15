@@ -6,8 +6,9 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/álvaro-candanedo-tuñón-842367267" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p>You can also contact me through my LinkedIn: <a href="https://www.linkedin.com/in/álvaro-candanedo-tuñón-842367267" target="_blank">LinkedIn</a></p>
+<a href="mailto:alvarocandanedo5@gmail.com">EMAIL</a>
+<a href="https://www.linkedin.com/in/álvaro-candanedo-tuñón-842367267" target="_blank">LinkedIn</a>
+
 
 
 
